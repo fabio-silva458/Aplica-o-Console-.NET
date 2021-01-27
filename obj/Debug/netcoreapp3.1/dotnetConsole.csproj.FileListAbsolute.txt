@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.exe
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.deps.json
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.runtimeconfig.json
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.dll
+C:\Users\Hp\Desktop\dotnetConsole\bin\Debug\netcoreapp3.1\dotnetConsole.pdb
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.AssemblyInfo.cs
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.dll
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.pdb
+C:\Users\Hp\Desktop\dotnetConsole\obj\Debug\netcoreapp3.1\dotnetConsole.genruntimeconfig.cache
